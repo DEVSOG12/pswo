@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "firestore": "^1.1.6",
+    "jsdom": "^21.1.0",
+    "node-fetch": "^3.3.0",
+    "puppeteer": "^19.6.2"
+  }
+}
